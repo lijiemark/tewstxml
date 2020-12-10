@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>ReelSEO Video News</title>
+<link>https://tubularinsights.com/examples/mrss/</link>
+<description>The ReelSEO Video News Archive</description>
+<item>
+<title>MRRS Example Video</title>
+<link>https://tubularinsights.com/examples/mrss/example.html</link>
+<description>The example landing page for this MRSS item</description>
+<guid isPermaLink="false">https://tubularinsights.com/examples/mrss/example.html</guid>
+<media:content url="https://tubularinsights.com/examples/mrss/example.avi" fileSize="405321" type="video/x-msvideo" height="240" width="320" duration="120" medium="video" isDefault="true">
+<media:title>The ReelSEO MRSS example video</media:title>
+<media:description>Check out the 120 seconds of fast-paced MRSS fun with ReelSEO.</media:description>
+<media:thumbnail url="https://tubularinsights.com/examples/mrss/example.png" height="120" width="160"/>
+</media:content>
+</item>
+</channel>
+</rss>
